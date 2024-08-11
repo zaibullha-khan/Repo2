@@ -6,13 +6,13 @@
   <parameter name="url" value="https://demo.nopcommerce.com/"></parameter>
     <classes>
       <class name="TestClass.IndexPageTest"/>
-<!--       <class name="TestClass.RegPageTest"/> -->
-<!--       <class name="TestClass.LoginTest"/> -->
-<!--       <class name="TestClass.AddProdcutPageTest"/> -->
-<!--       <class name="TestClass.OrderPageTest"/> -->
-<!--       <class name="TestClass.checkOutPageTest"/> -->
-<!-- 	  <class name="TestClass.PayInfPageByCreditCardTest"/> -->
-<!--       <class name="DataBaseIntegrationTesting.DataBaseTestingClass"/>  -->
+      <class name="TestClass.RegPageTest"/>
+      <class name="TestClass.LoginTest"/>
+      <class name="TestClass.AddProdcutPageTest"/>
+      <class name="TestClass.OrderPageTest"/>
+      <class name="TestClass.checkOutPageTest"/>
+	  <class name="TestClass.PayInfPageByCreditCardTest"/>
+      <class name="DataBaseIntegrationTesting.DataBaseTestingClass"/> 
     </classes>
     </test> <!-- Test -->
 <!--    <test thread-count="5" name="FireFoxTest"> -->
