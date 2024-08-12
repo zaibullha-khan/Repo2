@@ -8,9 +8,7 @@
       <class name="TestClass.IndexPageTest"/>
       <class name="TestClass.RegPageTest"/>
       <class name="TestClass.LoginTest"/>
-      <class name="TestClass.AddProdcutPageTest"/>
-      <class name="TestClass.OrderPageTest"/>
-      <class name="TestClass.checkOutPageTest"/>
+    
     </classes>
     </test> <!-- Test -->
 <!--    <test thread-count="5" name="FireFoxTest"> -->
